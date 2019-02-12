@@ -1,6 +1,10 @@
 mydog - a node.js server
 ===========================
 
+## 说明
+
+node.js服务端框架，原文链接https://forum.cocos.com/t/nodejs/53417
+
 
 ## installation
 
